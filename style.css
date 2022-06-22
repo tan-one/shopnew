@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+.heading {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    margin: auto 100px;
+}
+
+.header {
+    background-image: url(img/fon.png);
+    height: 100%;
+}
+
+.link {
+    padding: 18px;
+}
+
+.img_header {}
+
+.menu {}
+
+.content {
+    background: #F1E4E6;
+}
+
+.header_content {
+    display: flex;
+}
+
+.logo_1 {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+
+    color: #222222;
+}
+
+.logo_2 {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 30px;
+
+    color: #222222;
+}
+
+.palochka {
+    padding-right: 16px;
+}
+
+.logo_content {
+    margin: auto 50px;
+    display: flex;
+
+}
+
+.sale_card {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    height: 260px;
+    padding-top: 30px;
+}
+
+.sale_div {
+    padding-bottom: 30px;
+
+}
+
+
+.link_sale {}
